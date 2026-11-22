@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Conservatory",
+  "description": "Modern greenhouse gardening assistant for plant photo identification, pest and disease diagnosis, detailed care blueprints, and multi-turn AI botanist consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
